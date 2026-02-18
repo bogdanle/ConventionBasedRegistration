@@ -1,5 +1,5 @@
 # ConventionBasedRegistration
-This is simple project that adds convention-based registration support using built-in .NET IoC container. 
+This is simple project that adds convention-based registration support for built-in .NET IoC container. 
 
 # How to use it
 Add this line in your Program.cs:<br>
